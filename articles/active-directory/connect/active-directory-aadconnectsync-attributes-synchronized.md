@@ -58,7 +58,7 @@ Dans ce cas, commencez par la liste des attributs dans cette rubrique et identif
 | c |X |X | | |
 | cn |X | |X | |
 | co |X |X | | |
-| société |X |X | | |
+| company |X |X | | |
 | countryCode |X |X | | |
 | department |X |X | | |
 | description |X |X |X | |
